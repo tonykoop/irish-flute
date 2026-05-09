@@ -1,0 +1,10 @@
+item_no,part_name,material,qty,rough_length_in,rough_width_in,rough_thickness_in,final_length_in,final_od_in,final_bore_id_in,operation_sequence,tooling,notes
+1,D4 body blank,Hardwood,1,24.50,1.25,1.25,22.63,1.000,0.750,"crosscut; mark centers; bore scrap first; bore tonewood; ream; turn OD from bore axis; trim to pitch",lathe and long drill,Leave length allowance until fundamental is measured
+2,Scrap bore blank,Poplar/pine,1,24.50,1.25,1.25,TBD,TBD,0.750,"bore full length; measure wander; cut trial embouchure; discard or keep as test article",lathe and long drill,Required process validation
+3,Embouchure window,Body,1,TBD,TBD,TBD,TBD,TBD,TBD,"mark centerline; cut small oval/window; bevel far edge; test edge tone",files/chisel,Final geometry by play test
+4,Tone hole 1,Body,1,TBD,TBD,TBD,TBD,TBD,TBD,"locate 2.58 in from foot; pilot undersize; tune by opening",drill press,Vent E4
+5,Tone hole 2,Body,1,TBD,TBD,TBD,TBD,TBD,TBD,"locate 4.76 in from foot; pilot undersize; tune by opening",drill press,Vent F#4
+6,Tone hole 3,Body,1,TBD,TBD,TBD,TBD,TBD,TBD,"locate 5.77 in from foot; pilot undersize; tune by opening",drill press,Vent G4
+7,Tone hole 4,Body,1,TBD,TBD,TBD,TBD,TBD,TBD,"locate 7.68 in from foot; pilot undersize; tune by opening",drill press,Vent A4
+8,Tone hole 5,Body,1,TBD,TBD,TBD,TBD,TBD,TBD,"locate 9.38 in from foot; pilot undersize; tune by opening",drill press,Vent B4
+9,Tone hole 6,Body,1,TBD,TBD,TBD,TBD,TBD,TBD,"locate 10.89 in from foot; pilot undersize; tune by opening",drill press,Vent C#5

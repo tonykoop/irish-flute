@@ -1,0 +1,7 @@
+item_no,item,supplier,supplier_url,search_term_or_part,unit_price_usd,lead_time_days,verified_date,status,notes
+1,Hardwood blank,Woodcraft / Rockler / local mill,https://www.woodcraft.com,1.25 square turning blank 24 inch,18.00,TBD,TBD,TBD,Verify current stock and moisture content before purchase
+2,Scrap blank,Local lumber yard,local,poplar 1.25 square blank,4.00,TBD,TBD,TBD,Can be laminated if glue line stays outside bore
+3,3/4 in long drill,McMaster-Carr / MSC / local machine supplier,https://www.mcmaster.com,3/4 aircraft length drill 18 inch,35.00,TBD,TBD,TBD,Price and availability are time-sensitive
+4,3/4 in adjustable reamer,McMaster-Carr / MSC,https://www.mcmaster.com,adjustable hand reamer 3/4 inch,30.00,TBD,TBD,TBD,Use only if bore finish from drill is poor
+5,Brad point bits,Hardware store / Woodcraft,https://www.woodcraft.com,brad point drill bit set,14.00,TBD,TBD,TBD,Sharp bits reduce tearout at tone holes
+6,Bore oil,Music supplier / hardware,https://www.amazon.com,bore oil raw linseed oil,8.00,TBD,TBD,TBD,Confirm food/contact suitability

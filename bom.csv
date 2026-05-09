@@ -1,0 +1,10 @@
+item_no,part_name,description,qty,unit,material_or_spec,source_class,est_unit_cost_usd,status,notes
+1,D4 body blank,Quarter-sawn hardwood blank for flute body,1,ea,Blackwood/cherry/maple 1.25 x 1.25 x 24.5 in,hardwood supplier,18.00,TBD,Choose stable straight grain; avoid checks near bore path
+2,Scrap bore blank,Practice blank for boring and embouchure tests,1,ea,Poplar or pine 1.25 x 1.25 x 24.5 in,local lumber,4.00,TBD,Mandatory before tonewood
+3,Long boring bit,Primary bore drill,1,ea,3/4 in aircraft-length or gun drill,tool supplier,35.00,TBD,Verify length and straightness
+4,Adjustable reamer,Final bore sizing,1,ea,3/4 in adjustable reamer,tool supplier,30.00,TBD,Optional if boring bit leaves acceptable finish
+5,Tone-hole bit set,Brad-point or twist bits for pilot and final holes,1,set,1/4 in through 5/16 in,hardware,14.00,TBD,Use sharp bits only
+6,Embouchure tools,Files/chisels for embouchure window,1,set,Needle files and small carving chisel,shop,0.00,available,Use existing shop tools
+7,Bore finish,Internal bore oil,1,ea,Raw linseed oil or bore oil,hardware/music,8.00,TBD,Apply before final tuning checks
+8,Exterior finish,Thin exterior finish,1,ea,Danish oil or shellac,hardware,10.00,TBD,Avoid heavy finish buildup near holes
+9,Sandpaper,Bore and exterior finishing,1,pack,220/320/400/600 grit,hardware,6.00,TBD,Use dowel-backed strips inside bore
