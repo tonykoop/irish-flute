@@ -1,0 +1,15 @@
+check_id,category,parameter,target,tolerance,method,measured,cents_error,pass_fail,date,notes
+V-SCRAP-BORE,process,Scrap bore completed before tonewood,yes,required,build log,TBD,,TBD,,Do not bore tonewood until this passes
+V-BORE-ID,dimensional,Bore ID,0.750 in,+/-0.005 in,bore gauge,TBD,,TBD,,Measure entry/mid/exit
+V-BORE-WANDER,dimensional,Bore wander,<0.030 in,maximum,calipers at exit,TBD,,TBD,,Reject process if greater than target
+V-WALL,dimensional,Minimum wall thickness,>=0.110 in,minimum,calipers,TBD,,TBD,,Check around embouchure and tone holes
+V-FUND,acoustic,All-closed fundamental,D4 293.66 Hz,+/-5 cents,chromatic tuner,TBD,TBD,TBD,,Measure before drilling tone holes
+V-H1,acoustic,Hole 1 E4,329.63 Hz,+/-10 cents,chromatic tuner,TBD,TBD,TBD,,Drill undersize and open gradually
+V-H2,acoustic,Hole 2 F#4,369.99 Hz,+/-10 cents,chromatic tuner,TBD,TBD,TBD,,
+V-H3,acoustic,Hole 3 G4,392.00 Hz,+/-10 cents,chromatic tuner,TBD,TBD,TBD,,
+V-H4,acoustic,Hole 4 A4,440.00 Hz,+/-10 cents,chromatic tuner,TBD,TBD,TBD,,A4 sanity check
+V-H5,acoustic,Hole 5 B4,493.88 Hz,+/-10 cents,chromatic tuner,TBD,TBD,TBD,,
+V-H6,acoustic,Hole 6 C#5,554.37 Hz,+/-10 cents,chromatic tuner,TBD,TBD,TBD,,
+V-OCTAVE,acoustic,Second register D5,587.33 Hz,+/-15 cents,chromatic tuner,TBD,TBD,TBD,,Assess overblow response
+V-FINISH,process,Bore finish cured,no tackiness,required,visual/touch,TBD,,TBD,,Recheck pitch after finish cure
+V-ERG,ergonomics,Player can cover six holes,yes,required,player test,TBD,,TBD,,Record hand-size notes

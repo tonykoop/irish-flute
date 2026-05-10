@@ -1,0 +1,15 @@
+{
+  "packet": "irish-flute",
+  "mode": "root",
+  "readiness": "L2",
+  "generated_artifacts": [
+    "capstone-deck.md",
+    "print-packet.md",
+    "print-packet.html"
+  ],
+  "deferred_artifacts": [
+    "capstone-deck.pptx",
+    "print-packet.pdf"
+  ],
+  "validation_status": "No physical prototype measurements yet"
+}

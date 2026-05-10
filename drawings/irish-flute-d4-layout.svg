@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <rect width="1200" height="360" fill="#fffdf8"/>
+  <text x="40" y="42" font-family="Arial" font-size="24" font-weight="bold">Irish Flute D4 Layout - L2 Starter</text>
+  <text x="40" y="70" font-family="Arial" font-size="14">All tone-hole positions are first-order estimates from the open-pipe model. Verify by prototype tuning.</text>
+  <line x1="120" y1="180" x2="1080" y2="180" stroke="#222" stroke-width="42" stroke-linecap="round"/>
+  <line x1="120" y1="180" x2="1080" y2="180" stroke="#f7e3bb" stroke-width="28" stroke-linecap="round"/>
+  <line x1="120" y1="180" x2="1080" y2="180" stroke="#222" stroke-width="2"/>
+  <text x="95" y="240" font-family="Arial" font-size="13">Foot datum</text>
+  <text x="1010" y="240" font-family="Arial" font-size="13">Embouchure end</text>
+  <rect x="990" y="144" width="42" height="22" rx="8" fill="#5c2f16"/>
+  <text x="955" y="132" font-family="Arial" font-size="13">Embouchure TBD</text>
+  <g fill="#1f4f7a" stroke="#0a263d" stroke-width="2" font-family="Arial" font-size="12">
+    <circle cx="229" cy="180" r="10"/><text x="211" y="218">H1 E4</text><text x="205" y="236">2.58 in</text>
+    <circle cx="321" cy="180" r="11"/><text x="303" y="218">H2 F#4</text><text x="300" y="236">4.76 in</text>
+    <circle cx="363" cy="180" r="11"/><text x="345" y="148">H3 G4</text><text x="340" y="132">5.77 in</text>
+    <circle cx="444" cy="180" r="12"/><text x="426" y="218">H4 A4</text><text x="423" y="236">7.68 in</text>
+    <circle cx="516" cy="180" r="12"/><text x="498" y="148">H5 B4</text><text x="495" y="132">9.38 in</text>
+    <circle cx="580" cy="180" r="12"/><text x="560" y="218">H6 C#5</text><text x="557" y="236">10.89 in</text>
+  </g>
+  <line x1="120" y1="285" x2="1080" y2="285" stroke="#444"/>
+  <text x="540" y="315" text-anchor="middle" font-family="Arial" font-size="13">Physical bore length target: 22.63 in, plus trim/setup allowance in rough blank</text>
+</svg>
