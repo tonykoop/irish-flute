@@ -1,0 +1,36 @@
+{
+  "tune": "/mnt/c/Users/Tony/Documents/GitHub/irish-flute/learn-to-play/02-intermediate/si-bheag-si-mhor/tune.abc",
+  "instrument": "irish-flute",
+  "stages": {
+    "lilypond": {
+      "status": "skipped",
+      "ok": false,
+      "log": "LilyPond not installed. Install and re-run scripts/render_pipeline.py."
+    },
+    "musicxml": {
+      "status": "skipped",
+      "ok": false,
+      "log": "music21 not installed. pip install music21 and re-run."
+    },
+    "midi": {
+      "status": "skipped",
+      "ok": false,
+      "log": "abc2midi not installed. Install abcmidi and re-run."
+    },
+    "fingering": {
+      "status": "ok",
+      "ok": true,
+      "log": ""
+    },
+    "audio": {
+      "status": "skipped",
+      "ok": false,
+      "log": "fluidsynth not installed. Install fluidsynth + soundfont and re-run."
+    },
+    "songsheet": {
+      "status": "skipped",
+      "ok": false,
+      "log": "ReportLab not installed. pip install reportlab and re-run."
+    }
+  }
+}
