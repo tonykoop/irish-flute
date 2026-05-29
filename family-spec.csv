@@ -1,0 +1,2 @@
+member_id,target_key,target_hz,acoustic_law,end_condition,bore_id_mm,tonehole_count,material_system,dimension_provenance,source_artifact,notes
+IFL-D4,D4,293.66,open_open,both_ends_open,19.0,6+thumb,wood/grenadilla/ebonite,measurement_required,irish-flute-design-table.xlsx,L2 scaffold; bore ID and tonehole positions are first-order model predictions. Dimensions require design-table review and prototype measurement confirmation before fabrication authority.

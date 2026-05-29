@@ -2,7 +2,7 @@
 
 Engineering build packet for a keyless D4 Irish flute: a six-hole wooden transverse flute with a cylindrical first-pass bore, simple embouchure, and open-pipe acoustic model.
 
-**Readiness:** L2 design/build-packet scaffold. No prototype measurements, render pass, or source-availability check has been completed. Do not treat the hole positions as build-ready until `validation.csv` is populated.
+**Status: L2 V5 build-packet candidate.** No prototype measurements, render pass, or source-availability check has been completed. Do not treat the hole positions as build-ready until `validation.csv` is populated. All SVGs are derived previews; Wolfram source is present but runtime execution is not yet recorded.
 
 Part of the [tonykoop/instrument-maker](https://github.com/tonykoop/instrument-maker) catalogue.
 
