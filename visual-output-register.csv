@@ -1,4 +1,4 @@
 artifact_path,artifact_type,authority,controlling_source,notes
 drawings/irish-flute-d4-layout.svg,drawing,derived_preview,irish-flute-design-table.xlsx,D4 full-length layout SVG derived from design-table; dimensions require design-table review before fabrication authority.
-wolfram-starter.wl,wolfram_source,pending_measurement,irish-flute-design-table.xlsx,Wolfram source present; runtime execution and output artifacts not yet committed — source-only at L2.
+irish-flute-starter.wl,wolfram_source,pending_measurement,irish-flute-design-table.xlsx,Wolfram source present; runtime execution and output artifacts not yet committed — source-only at L2.
 family-spec.csv,family_spec,pending_measurement,irish-flute-design-table.xlsx,L2 family spec scaffold; dimension_provenance is measurement_required until prototype run.
