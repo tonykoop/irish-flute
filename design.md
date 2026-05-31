@@ -63,6 +63,6 @@ distance_from_foot = L_eff * (1 - f_root / f_hole)
 
 - Workbook: `irish-flute-design-table.xlsx`
 - Layout starter: `drawings/irish-flute-d4-layout.svg`
-- Wolfram starter: `wolfram-starter.wl`
+- Wolfram starter: `irish-flute-starter.wl`
 - Build sequence: `assembly-manual.md`
 - Validation worksheet: `validation.csv`

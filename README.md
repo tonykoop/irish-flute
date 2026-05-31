@@ -25,7 +25,7 @@ Part of the [tonykoop/instrument-maker](https://github.com/tonykoop/instrument-m
 | `jig-decision.md` | Fixture choices and open setup decisions |
 | `drawings/irish-flute-d4-layout.svg` | L2 layout drawing starter |
 | `cad/README.md` | CAD starter notes |
-| `wolfram-starter.wl` | Wolfram model starter |
+| `irish-flute-starter.wl` | Wolfram model starter |
 | `site/index.html` | Static build-log starter |
 
 ## Design Snapshot
