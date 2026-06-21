@@ -11,5 +11,16 @@
     "capstone-deck.pptx",
     "print-packet.pdf"
   ],
-  "validation_status": "No physical prototype measurements yet"
+  "validation_status": "No physical prototype measurements yet",
+  "engineering": {
+    "wolfram": [
+      {
+        "source_file": "woodwind/irish-flute/irish-flute-starter.wl",
+        "cloud_path": "Musical_Instruments/woodwinds/irish-flute/irish-flute-starter.wl",
+        "cloud_url": "https://www.wolframcloud.com/obj/wrfcoin/Musical_Instruments/woodwinds/irish-flute/irish-flute-starter.wl",
+        "permission": "Public-Execute",
+        "kind": "acoustics-starter"
+      }
+    ]
+  }
 }
