@@ -1,0 +1,34 @@
+{
+  "product": "irish-flute",
+  "pipeline": "studiopipeline:evolution-pipeline",
+  "stage": "0-intake",
+  "master_revision": "pre-commit intake, 2026-07-01",
+  "generated": "2026-07-01",
+  "cad_masters": [
+    {
+      "path": "cad/irish-flute.scad",
+      "format": "openscad-source",
+      "sha256": "f6063eaa2beac330208694ebef8f406d11d7c9bcca66b0f07274039c1f69dd89",
+      "authority": "pending_measurement",
+      "lossy": false,
+      "notes": "New parametric master authored this pass (no prior .scad existed): open-open cylindrical bore envelope + design.md six-hole tone-hole schedule. Embouchure/undercutting out of scope."
+    },
+    {
+      "path": "wolfram/irish-flute-wolfram-model.wl",
+      "format": "wolfram-source",
+      "sha256": "e73f9f7cd7449e16824f98354561334f5506962b52e1c8fa918ca52ba9ec4e70",
+      "authority": "derived_preview",
+      "lossy": false,
+      "notes": "Generated this pass; source-only, not executed. Distinct from existing irish-flute-starter.wl."
+    },
+    {
+      "path": "irish-flute-design-table.xlsx",
+      "format": "design-table",
+      "sha256": "ff5f6c298f1c7fad84eeeb5f1f2fa9e5dd4fb7b002ebf7af7879a9d59cc673fc",
+      "authority": "pending_measurement",
+      "lossy": false,
+      "notes": "Existing parametric workbook for the family; dimension_provenance measurement_required per family-spec.csv."
+    }
+  ],
+  "notes": "OpenSCAD source is the current master; no STEP export yet (out of scope). Gate A (Alpha workspace compile) not yet run. Bore/hole geometry is a first-order acoustic-model prediction (design.md), not validated against a physical D4 prototype."
+}

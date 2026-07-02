@@ -2,7 +2,7 @@
 
 Engineering build packet for a keyless D4 Irish flute: a six-hole wooden transverse flute with a cylindrical first-pass bore, simple embouchure, and open-pipe acoustic model.
 
-**Status: L2 V5 build-packet candidate.** No prototype measurements, render pass, or source-availability check has been completed. Do not treat the hole positions as build-ready until `validation.csv` is populated. All SVGs are derived previews; Wolfram source is present but runtime execution is not yet recorded.
+**Status:** L2 V5 build-packet candidate. No prototype measurements, render pass, or source-availability check has been completed. Do not treat the hole positions as build-ready until `validation.csv` is populated. All SVGs are derived previews; Wolfram source is present but runtime execution is not yet recorded.
 
 Part of the [tonykoop/instrument-maker](https://github.com/tonykoop/instrument-maker) catalogue.
 
@@ -25,7 +25,10 @@ Part of the [tonykoop/instrument-maker](https://github.com/tonykoop/instrument-m
 | `jig-decision.md` | Fixture choices and open setup decisions |
 | `drawings/irish-flute-d4-layout.svg` | L2 layout drawing starter |
 | `cad/README.md` | CAD starter notes |
+| `cad/irish-flute.scad` | Parametric OpenSCAD master (bore envelope + tone-hole schedule); `pending_measurement` |
 | `irish-flute-starter.wl` | Wolfram model starter |
+| `wolfram/irish-flute-wolfram-model.wl` | Generated Wolfram source package; source-only, not executed |
+| `evolution/` | Evolution-pipeline Stage 0 intake: master manifest, design-intent, revision register (Gate A not yet run) |
 | `site/index.html` | Static build-log starter |
 
 ## Design Snapshot
